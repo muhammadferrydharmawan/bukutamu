@@ -17,4 +17,4 @@ Aplikasi pencatatan tamu berbasis web dengan PHP dan MySQL.
 
 ## Bantuan
 
-Hubungi: admin@example.com
+Hubungi: https://www.instagram.com/m.ferry_dharmawan/
