@@ -4,8 +4,8 @@ date_default_timezone_set('Asia/Jakarta');
 
 // Koneksi ke database
 $servername = "localhost";
-$username = "portalbu_admin";
-$password = "ferry26101990";
+$username = "admin";
+$password = "12345678";
 $dbname = "portalbu_bukutamu";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
